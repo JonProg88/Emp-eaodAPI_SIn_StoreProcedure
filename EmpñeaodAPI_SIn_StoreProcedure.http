@@ -1,0 +1,6 @@
+@EmpñeaodAPI_SIn_StoreProcedure_HostAddress = http://localhost:5106
+
+GET {{EmpñeaodAPI_SIn_StoreProcedure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

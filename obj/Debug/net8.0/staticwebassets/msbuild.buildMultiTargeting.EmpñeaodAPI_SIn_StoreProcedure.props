@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EmpñeaodAPI_SIn_StoreProcedure.props" />
+</Project>
